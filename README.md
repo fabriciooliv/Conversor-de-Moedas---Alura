@@ -1,4 +1,3 @@
-# Challenge Back End ONE-Alura
 # 💲 Conversor de Moedas 💲
 ![Conversor de Moeda](https://github.com/fabriciooliv/Conversor-de-Moedas---Alura/assets/146496164/6568e413-259a-488a-986f-c15e2db0b82d)
 
